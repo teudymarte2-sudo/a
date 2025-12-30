@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/dist/css/core.css",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy_core.css",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/dist/index.html",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_includes/divider_curb.html",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_includes/intro.html",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_layouts/default.html",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/index.md",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_less/partials/footer.less",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_less/components/petitions.less",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_less/base/common.less",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_less/components/buttons.less",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/index.html",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/README.md",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/dist/widget.js",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_includes/letter-en.md",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_includes/meta.html",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy/app/_less/base/variables.less",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/eunetneutrality/app/_data/l10n.yaml",
+		"/Users/liliavilla/Desktop/DominoLink/FFTF/eunetneutrality-master/app/_layouts/default.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/dominolink.scss",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/layout.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/_home_signup_feature.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/_latest_projects.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/pages_show_blog_post.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/pages_show_basic.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/theme.scss",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/_featured_project.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/layout-backup.html",
+		"/Users/liliavilla/Desktop/DominoLink/Brand New Congress/dominolink-572e926fb92871f3bd000001/toolkit-minimal.css",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/snippet_twig_code.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/spanish-phonebank.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/pr-dialer.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/pr-dialer-error.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/error.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/pledge_to_vote_az.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/bilingual.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/co-barnstorms.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/latino-tele-town-hall.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/latino_barnstorm_template.html",
+		"/Users/liliavilla/Desktop/DominoLink/Bernie2016/Colorado/colorado.1.14.2016.html",
+		"/Users/liliavilla/Desktop/DominoLink/codecanyon-7391534-magicwall-responsive-image-grid/main/magicwall.min.css",
+		"/Users/liliavilla/Desktop/DominoLink/codecanyon-7391534-magicwall-responsive-image-grid/main/jquery.magicwall.min.js",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/animate.css",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/tablet-and-desktop.scss",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/_icons.scss",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/dominolink-stylez.css",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/infinity-glyph.css",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/_signup_form.html",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/_signup_form.html",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/layout.html",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/NationBuilder_ThemeSync/dominolink-536f13d401925b065a000001/collective.js",
+		"/Users/liliavilla/Desktop/DominoLink/_DominoLink/themeforest-9241163-revenue-startup-landing-page/HTML/registration/video/index.html",
+		"/Users/liliavilla/Desktop/DominoLink/_APPS/dlld/admin/dlld-admin.php",
+		"/Users/liliavilla/Desktop/DominoLink/_APPS/dlld/dlld.php",
+		"/Users/liliavilla/Desktop/DominoLink/_APPS/dlld/admin/dlld-admin.css",
+		"/Users/liliavilla/Desktop/DominoLink/dlld/dlld/dlld.php",
+		"/Users/liliavilla/Desktop/DominoLink/dlld/dlld/dlld.css",
+		"/Users/liliavilla/Desktop/DominoLink/dlld/dlld/index.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/header.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/js/dominolink.js",
+		"/Users/liliavilla/Desktop/DominoLink/TribeJoy/teknomadics-5614bba701925b7e30000001/pages_show_event_mobile.html",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/footer.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/style.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/index.php",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/profiles_show_wide.html",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/template-home.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/css/style-mobile.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/category-blog.php",
+		"/Users/liliavilla/Downloads/organic_luxury 2/organic-shortcodes/css/organic-shortcodes.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/backup styles/style-mobile.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/backup styles/style.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/locatoraid/assets/css/lpr.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/locatoraid/assets/css/hitcode-wp.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic_luxury_child/style-mobile.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/header.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/index.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/template-home.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/organic-shortcodes.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/dominolink.js",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/footer.php",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/style-mobile.css",
+		"/Users/liliavilla/Desktop/DominoLink/GrowGreenTrees/WP/childdocs/style.css",
+		"/Users/liliavilla/Downloads/wordpress/wp-config.php",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/pages_show_signup.html",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/_donations_global.html",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/pages_show_donation_wide.html",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/pages_show_donation_mobile.html",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/_progress-bar.scss",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/_buttons.scss",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/profiles_show.html",
+		"/Users/liliavilla/Desktop/DominoLink/WeHelpNepal/gri-553dede62213932e1f000001/profiles_show_mobile.html",
+		"/Users/liliavilla/Desktop/DominoLink/Best Start LA/Best Start Communities - First 5 LA.html",
+		"/Users/liliavilla/Desktop/Teknomadics/NB Website Migration/rebloom-html-all-files/theme/blog.html",
+		"/Users/liliavilla/Desktop/Teknomadics/NB Website Migration/rebloom-html-all-files/theme/contact.html",
+		"/Users/liliavilla/Desktop/Teknomadics/NB Website Migration/rebloom-html-all-files/theme/portfolio.html",
+		"/Users/liliavilla/Desktop/Teknomadics/NB Website Migration/rebloom-html-all-files/theme/index.html",
+		"/Users/liliavilla/Desktop/Teknomadics/NB Website Migration/rebloom-html-all-files/theme/layout-1-map.html",
+		"/Users/liliavilla/Desktop/Teknomadics/NB Website Migration/rebloom-html-all-files/theme/about.html",
+		"/Users/liliavilla/Desktop/Teknomadics/NB Website Migration/rebloom-html-all-files/theme/layout-1-video.html",
+		"/Users/liliavilla/Desktop/Thank you for your feedback.eml",
+		"/Users/liliavilla/Desktop/DominoLink/BestOfLeft/bestoftheleft-5373f23debad642b6b000001/layout.html",
+		"/Users/liliavilla/Desktop/DominoLink/BestOfLeft/bestoftheleft-5373f23debad642b6b000001/_supporter_nav.html",
+		"/Users/liliavilla/Desktop/DominoLink/BestOfLeft/bestoftheleft-5373f23debad642b6b000001/_columns_2.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/all_activism.rss",
+		"/Users/liliavilla/Desktop/DominoLink/BestOfLeft/bestoftheleft-5373f23debad642b6b000001/_all_activism_listing.html",
+		"/Users/liliavilla/Desktop/DominoLink/BestOfLeft/bestoftheleft-5373f23debad642b6b000001/_activism_listings.html",
+		"/Users/liliavilla/Desktop/DominoLink/BestOfLeft/bestoftheleft-5373f23debad642b6b000001/activity_public.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_columns_2.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_columns_1.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/pages_show_petition.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/pages_show_petition_wide.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/pages_show_petition_mobile.html",
+		"/Users/liliavilla/Desktop/DominoLink/Parti-Poodle-Chico/teknomadics-543d82fc22139329da000001/theme.scss",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/FissionLogos/Fission-logo-RGB-highres.png",
+		"/Users/liliavilla/Desktop/DominoLink/LiliaVilla.com/teknomadics-53ae274febad642715000001/theme.scss",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_tumblr_widget.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/theme.scss",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/tablet-and-desktop.scss",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_nav.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/dominolink.scss",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/layout.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_homepage_tiles.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_home_petition.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_features.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/dominolink.js",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/ie.scss",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/_home_petition_pictures.html",
+		"/Users/liliavilla/Desktop/DominoLink/RHIZE/CTWT/dominolink-5442eda82213931fc7000001/presence.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/liliavilla/Desktop/DominoLink/FFTF/Git/broadbandprivacy",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"none",
+			"select",
+			"last-of-type",
+			"last-",
+			"5%",
+			"select",
+			"bg_",
+			"hover",
+			"ask the fcc to protect",
+			"submit",
+			"button",
+			"input",
+			"transition",
+			"button",
+			"fd5",
+			"hover",
+			"button",
+			"tag",
+			"top",
+			"font-family",
+			"petition-form",
+			"dl:first",
+			"h2",
+			"src",
+			"first-of-type",
+			"last-of-type",
+			"first-of-type",
+			"h1",
+			"max-width",
+			"p",
+			"first-of-type",
+			"first",
+			"h1",
+			"body",
+			"submit",
+			"input",
+			"info",
+			"body",
+			"count",
+			"event",
+			"events",
+			"participate",
+			"events",
+			"yellow",
+			"search",
+			"middle",
+			"participate",
+			"268",
+			"298",
+			"participate",
+			"two",
+			"two\n",
+			"two",
+			"nav",
+			"nav li",
+			"50",
+			"border-rad",
+			"50px",
+			"column",
+			"wrap",
+			"page",
+			"pagewrap",
+			"h2",
+			"hr",
+			"topnav",
+			"two",
+			"svg",
+			"center-map",
+			"center",
+			"sponsors",
+			"participate",
+			"sponsors",
+			"center-map",
+			"map",
+			"yellow",
+			"button",
+			"red",
+			"submit-",
+			"submit",
+			"footer",
+			"border-radius",
+			"lighten",
+			"hover",
+			"share",
+			"button",
+			"08c",
+			"small",
+			"small_bu",
+			"button",
+			"visit",
+			"right",
+			"store",
+			"yellow",
+			"sponsors",
+			"body",
+			"sponsors",
+			"content",
+			"content1",
+			"get-inv",
+			"participate",
+			"transition",
+			"participate",
+			"yellow",
+			"accordion",
+			"participate",
+			"transition",
+			"fade",
+			"participate",
+			"sponsors",
+			"join",
+			"topnav",
+			"last",
+			"nav",
+			"topnav",
+			"button",
+			"success-button",
+			"success-",
+			"success",
+			"radio",
+			"middle",
+			".radio-inline label.radio, .radio-inline label.checkbox, .checkbox-inline label.radio, .checkbox-inline label.checkbox {\n    position: relative;\n    top: -20px;\n    display: inline-block;\n    width: auto;\n    background-color: transparent;\n    font-family: \"proxima-nova\",sans-serif;\n    color: #505054;\n    font-size: 15px;\n    font-weight: normal;\n    text-align: left;\n    padding-left: 15px;\n    margin: 0 10px 10px 5px;\n}",
+			".radio-inline",
+			"participate_box_border",
+			"participate",
+			"topnav",
+			"hr",
+			"hr s",
+			"hr s\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"05266B",
+			"0088CC",
+			"05256B",
+			"0088CC",
+			"",
+			"about",
+			"\"",
+			"$theme-highlight-1",
+			"$theme-color-1;",
+			"#37AFAF",
+			"#6ebdc4",
+			"00a547",
+			"9e0b0f",
+			"#685421",
+			"teknomadics",
+			"Teknomadics",
+			"#221918",
+			"trip",
+			"$theme-dominolink-rouge",
+			"$theme-dominolink-teal",
+			"$theme-dominolink-salmon",
+			"{{ site.meta_image_url }}",
+			"#000",
+			"amazon",
+			"#00ac8c",
+			"header-nav-single",
+			"#7c3028",
+			"#99cc00",
+			"99cc00",
+			"packages",
+			"#FFCC33"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "common.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"_event.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 423.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
